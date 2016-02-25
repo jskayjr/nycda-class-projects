@@ -49,6 +49,23 @@ h2{
 	text-align: center;
 }
 
+button{
+	display: inline-block;
+	margin: 5px;
+	padding: 5px 10px;
+	background-color: white;
+	border: solid gray 1px;
+
+}
+
+button:hover{
+	background-color: gray;
+}
+
+button:active{
+	margin: 20px;
+}
+
 .menu{
 	width: 100%;
 	margin: 0 auto;
